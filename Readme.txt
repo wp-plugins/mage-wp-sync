@@ -22,7 +22,8 @@ What to sync from magento using Magento Wordpress plugin?
 2. Customers - import all customers and their shipping, billing details
 3. Sales Orders - import all Sales orders along with following order status Processing, Pending Payment, On Hold, Cancelled, Failed
 4. Products - import all Magento Products into WooCommerce products along with all product meta fields.
-4.1 Supported product Attributes and Meta Fields 
+
+= Supported product Attributes and Meta Fields =
 visibility
 sku
 manage_stock
